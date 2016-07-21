@@ -49,8 +49,11 @@
 	<script>
 		$(document).ready(function(){
 		alert(99999);
-		$("body.mobile").removeClass("mobile");
+		setInterval( removeMobile, 2000);
 		});
+		function removeMobile(){
+			$("body.mobile").removeClass("mobile");	
+		}
 	</script>
 	<style>
 		body {
