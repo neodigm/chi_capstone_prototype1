@@ -16750,6 +16750,7 @@ emojiService,
 hashKeyCopier,
 mentionStorage,
 modelEvents,
+moment,
 parseCommentService,
 projectService,
 projectViewingService,
@@ -16849,11 +16850,7 @@ _.each( users, augmentUser );
 return( users );
 }
 function getDateLabel( createdAt ) {
-return(
-dateHelper.formatRecentDate( createdAt, " mmm d" ) +
-" at " +
-dateHelper.formatTime( createdAt, "h:mm TT" )
-);
+return moment( createdAt ).fromNow();
 }
 function loadRemoteData() {
 var share = shareService.getShare();
