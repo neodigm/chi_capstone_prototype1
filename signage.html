@@ -36,6 +36,7 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css" media="all" />
 		<link href='https://fonts.googleapis.com/css?family=Roboto+Slab|Architects+Daughter|Open+Sans' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css" media="all" />
+	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 		<section class="row">
 			<header class="columns small-12 color-back__neos13 text-center">
 				<h1 class="caption--p__roboto color-text__white text-center">
@@ -56,7 +57,12 @@ Putting your Living Style Guide directly in the browser makes it easily availabl
 			</aside>
 
 			<aside class="columns small-12 medium-4 large-4 text-center">
-9999999999999
+<div class="multiple-items1">
+  <div>your content</div>
+  <div>your content</div>
+  <div>your content</div>
+</div>
+
 			</aside>
 		</section>
 		<section class="row"><div class="columns small-12"><hr></div></section>
@@ -85,17 +91,15 @@ Putting your Living Style Guide directly in the browser makes it easily availabl
 
 
 		<section class="row"><div class="columns small-12"><hr></div></section>
-9
+99999999999999
 		<section class="row"><div class="columns small-12"><hr></div></section>
 		
-		<section class="row">
-9999999999999
-		</section>
 		
 
 	</body>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.min.js" async></script>
+	<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 	
 	<style>
 table {width: 100%;}
@@ -182,10 +186,11 @@ hr.jeweled {
 	<script>
 		$(document).ready(function(){
 			'use strict';
-			var sThank = location.search.split("thank=")[1];
-			if(sThank === "you"){
-				$("#thank").css("display","block");
-			}
+$('.multiple-items1').slick({
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3
+});
 		});
 	</script>
 </html>
