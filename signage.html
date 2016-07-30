@@ -66,6 +66,7 @@ Online Express Pick-Up &nbsp; <i class="fa xxxfa-2x fa-mobile color-text__white"
 						  <div>
 						  	<img src="http://placeholdit.imgix.net/~text?txtsize=32&txt=ZM-Zoom-h720-w590&h=200&w=200">
 						  </div>
+						  
 						  <div>your content</div>
 						  <div>your content</div>
 						  <div>your content</div>
@@ -82,17 +83,21 @@ Online Express Pick-Up &nbsp; <i class="fa xxxfa-2x fa-mobile color-text__white"
 			</div>
 			<div class="columns small-12 medium-6">
 				<section class="row color-back__theme5">
-					<div class="multiple-items1 color-back__theme2">
-					<div>
-						<img src="http://pizzapro.ca/wp-content/uploads/2013/04/pepsi_products.jpg">
-					</div>
-					<div>
-						<img src="http://cf.ltkcdn.net/cocktails/images/std/104041-225x300-Harvey_Wallbanger.jpg">
-					</div>
-					<div>your content</div>
-					<div>your content</div>
-					<div>your content</div>
-					<div>your content</div>
+					<div class="multiple-items2 color-back__theme5">
+						<div>
+							<img src="http://pizzapro.ca/wp-content/uploads/2013/04/pepsi_products.jpg">
+						</div>
+						<div>
+							<img src="http://cf.ltkcdn.net/cocktails/images/std/104041-225x300-Harvey_Wallbanger.jpg">
+						</div>
+						<div>
+							<img src="http://www.beyondhealth.co.nz/uploads/2/2/8/5/22857830/3768113_orig.jpg">
+						</div>
+						
+						<div>your content</div>
+						<div>your content</div>
+						<div>your content</div>
+						<div>your content</div>
 					</div>
 				</section>
 			</div>
@@ -204,6 +209,13 @@ hr.jeweled {
 $('.multiple-items1').not(".slick-initialized").slick({
 infinite: true,
 slidesToShow: 3,
+slidesToScroll: 3,
+arrows: false,
+autoplay: true
+});
+$('.multiple-items2').not(".slick-initialized").slick({
+infinite: true,
+slidesToShow: 1,
 slidesToScroll: 3,
 arrows: false,
 autoplay: true
