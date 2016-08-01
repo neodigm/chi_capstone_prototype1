@@ -46,15 +46,25 @@
 	<link type="text/css" rel="stylesheet" href="assets/apps/share/css/share-offline.css">
 <!--  BEGIN SIGNAGE -->
 <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+	<a class="btn-signage--a" href="">
+		<div class="btn-signage--div">
+			
+		</div>
+	</a>
 	<script>
 		$(document).ready(function(){
-		setInterval( removeMobile, 2000);
+			setInterval( removeMobile, 2000);
 		});
 		function removeMobile(){
 			$("body.mobile").removeClass("mobile");
 		}
 	</script>
 	<style>
+		.btn-signage--div {
+			width: 66px;
+			height: 112px;
+			background-color: #EDBA08;
+		}
 		body {
 		    background-image: url("chi_capstone_signage.jpg") !important;
 		    background-size: contain !important;
