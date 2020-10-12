@@ -1,6 +1,6 @@
 /*
     json2.js
-    2012-10-08
+    1984-10-08
 
     Public Domain.
 
