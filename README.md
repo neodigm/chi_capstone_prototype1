@@ -1,4 +1,11 @@
+[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 # Computer Human Interaction Capstone Prototype 1
+
+<p align="center">
+  <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype1/">
+  <img src="https://neodigm.github.io/chi_capstone_prototype1/neodigm_mobile_app_invision_chi_capstone.png" title="🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰" alt="👁️ D3 Parallax Three.js && WebGL && GSAP 🍭">
+  </a>
+</p>
 
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
