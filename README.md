@@ -1,5 +1,5 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
-# Computer Human Interaction Capstone Prototype 1
+# Computer Human Interaction ⚡ San Diego School of Design
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype1/">
