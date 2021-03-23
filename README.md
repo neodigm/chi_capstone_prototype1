@@ -9,7 +9,7 @@
 </p>
 
 #
-[Portfolio Blog](https://www.theScottKrause.com) |
+[Portfolio Blog](https://thescottkrause.com/categories/ux/) |
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
