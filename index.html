@@ -43,7 +43,7 @@ Neodigm InVision
 <!--  BEGIN SIGNAGE -->
 <script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
 	<a class="btn-signage--a" href="https://www.thescottkrause.com/" target="_blank">
-		<div class="btn-signage--div">
+		<div class="btn-signage__div btn-signage__div--1">
 			<p class="">
 Scott C. Krause
 			</p>
@@ -51,7 +51,7 @@ Scott C. Krause
 	</a>
 	<br>
 	<a class="btn-signage--a" href="https://neodigm.github.io/chi_capstone_prototype1/signage.html" target="_blank">
-		<div class="btn-signage--div">
+		<div class="btn-signage__div btn-signage__div--2">
 			<p class="">
 View Signs
 			</p>
@@ -66,13 +66,13 @@ View Signs
 		}
 	</script>
 	<style>
-		.btn-signage--div > p {
+		.btn-signage__div > p {
 			color: #222222;
-			font-size: 22px;
+			font-size: 16px;
 			text-align: center;
 			line-height: 2;
 		}
-		.btn-signage--div {
+		.btn-signage__div {
 			width: 132px;
 			height: 56px;
 			background-color: #EDBA08;
@@ -80,7 +80,12 @@ View Signs
 			position: absolute;
 			z-index: 56;
 			top: 12;
+		}
+		.btn-signage__div--1 {
 			left: 12;
+		}
+		.btn-signage__div--2 {
+			left: 176;
 		}
 		body {
 		    background-image: url("chi_capstone_signage.jpg") !important;
