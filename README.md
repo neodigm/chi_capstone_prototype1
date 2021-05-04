@@ -3,7 +3,7 @@
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype1/">
-  <img src="https://neodigm.github.io/chi_capstone_prototype1/neodigm_mobile_app_invision_chi_capstone.png" title="🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰" alt="👁️ D3 Parallax Three.js && WebGL && GSAP 🍭"
+  <img src="https://neodigm.github.io/chi_capstone_prototype1/neodigm_mobile_app_invision_chi_capstone.png" title="🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰" alt="👁️ D3 Parallax Three.js && WebGL && GSAP ✨ JavaScript && TypeScript && Go 🪐"
        style="width: 44%">
   </a>
 </p>
