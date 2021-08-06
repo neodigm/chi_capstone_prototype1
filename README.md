@@ -3,7 +3,7 @@
 
 <p align="center">
   <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype1/">
-  <img src="https://neodigm.github.io/chi_capstone_prototype1/neodigm_mobile_app_invision_chi_capstone.png" title="🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰" alt="👁️ D3 Parallax Three.js && WebGL && GSAP ✨ JavaScript && TypeScript && Go 🪐"
+  <img src="https://neodigm.github.io/chi_capstone_prototype1/neodigm_mobile_app_invision_chi_capstone.png" title="🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰" alt="👁️ D3 Parallax Three.js && WebGL && GSAP ✨ JavaScript && TypeScript && Go 🪐 TypeScript ⚡ WASM ✨ NestJS"
        style="width: 44%">
   </a>
 </p>
@@ -35,6 +35,7 @@
 																	     
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vivid_vector_alphabet)
+
 <p align="center">
 	<a target="_blank" href="https://www.thescottkrause.com">
 		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="TypeScript ⚡ WASM ✨ NestJS">
