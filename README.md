@@ -41,4 +41,3 @@
 		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="TypeScript ⚡ WASM ✨ NestJS">
 	</a>
 </p>
-
