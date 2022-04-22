@@ -11,6 +11,7 @@
 #
 [Portfolio Blog](https://thescottkrause.com/categories/ux/) |
 [🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2022.pdf) |
+[UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm55/) |
@@ -32,9 +33,6 @@
   <img src="https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9" title="D3js Skillz with Audio ✨ JavaScript && TypeScript && Go 🪐 DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS ✨">
   </a>
 </p>
-																	     
-
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vivid_vector_alphabet)
 
 <p align="center">
 	<a target="_blank" href="https://www.thescottkrause.com">
