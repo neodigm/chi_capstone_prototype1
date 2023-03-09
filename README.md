@@ -1,14 +1,6 @@
 [![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 # Computer Human Interaction [⚡](https://www.thescottkrause.com/categories/ux/) San Diego School of Design
 
-<p align="center">
-  <a target="_blank" href="https://neodigm.github.io/chi_capstone_prototype1/">
-  <img src="https://neodigm.github.io/chi_capstone_prototype1/neodigm_mobile_app_invision_chi_capstone.png" title="🦄 AWS Amplify && GraphQL && TypeScript && Go  🍰" alt="👁️ D3 Parallax Three.js && WebGL && GSAP ✨ JavaScript && TypeScript && Go 🪐 TypeScript ⚡ WASM ✨ NestJS"
-       style="width: 44%">
-  </a>
-</p>
-
-
 ---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
@@ -36,7 +28,7 @@
 
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS" alt="Interactive Infographic">
+    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS" alt="Interactive Infographic TypeScript ⚡ WASM ✨ PWA 🍭 ThreeJS">
   </a>
 </p>
 
