@@ -1,7 +1,7 @@
 
 # Computer Human Interaction [⚡](https://www.thescottkrause.com/categories/ux/) San Diego School of Design
+[Mobile Taco App](https://neodigm.github.io/chi_capstone_prototype1/#/screens)
 
----
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🦄 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
