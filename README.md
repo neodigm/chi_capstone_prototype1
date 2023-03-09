@@ -31,11 +31,3 @@
     <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS" alt="Interactive Infographic TypeScript ⚡ WASM ✨ PWA 🍭 ThreeJS">
   </a>
 </p>
-
-
-<p align="center">
-  <a target="_blank" href="https://www.thescottkrause.com">
-    <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="UX PWA TypeScript ⚡ WASM ✨ Vue.js 🍭 ThreeJS" alt="Interactive Infographic">
-  </a>
-</p>
-
