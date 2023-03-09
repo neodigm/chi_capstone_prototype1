@@ -1,4 +1,4 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
+
 # Computer Human Interaction [⚡](https://www.thescottkrause.com/categories/ux/) San Diego School of Design
 
 ---
