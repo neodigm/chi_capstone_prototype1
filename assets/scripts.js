@@ -1,7 +1,7 @@
 
 ;
 ;
-/*! jquery-1.8.2.min.js */ 
+/*! jquery-1.8.2.min.js  DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS ✨ Vue  🚀 Lit 🌶️ htmx */ 
 ;
 ;
 /*! jQuery v1.8.2 jquery.com | jquery.org/license */
