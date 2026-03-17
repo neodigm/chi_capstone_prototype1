@@ -1,4 +1,4 @@
-*.svg linguist-detectable=false
+*.svg linguist-detectable=true
 *.html linguist-detectable=false
 *.ts linguist-detectable=true
 *.go linguist-detectable=true
