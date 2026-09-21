@@ -24,7 +24,7 @@
 #
 <p align="center">
 	  <a target="_blank" href="https://www.thescottkrause.com/emerging_tech/cytoscape_dataviz_skills/">
-	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="TypeScript UX 🪐 Interactive Infographic ⚡ WASM ✨ PWA 🍭 Svelte UX Design System Lit Web Components PWA Vue ✨ HTMX">
+	  	<img src="https://neodigm.github.io/brand_logo_graphic_design/fantastic/discerning/22.webp" alt="MCP AI Agents Chat UX PWA 3D ThreeJS LLM ✨ HTMX Rust WASM 🌶️ webMCP ✨ PWA 🍭 Svelte UX Design System Lit Web Components PWA Vue ✨ HTMX">
 	  </a>
 </p>
 
